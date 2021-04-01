@@ -9,6 +9,8 @@
 ```bash
 > pkg update && pkg upgrade
 > pkg install git -y
+> pkg install wget
+> pkg install ffmpeg
 > git clone https://github.com/Mr-Pato/Pato-botv4
 > cd Pato-botv4
 > bash install.sh
