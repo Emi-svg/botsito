@@ -13,5 +13,4 @@ npm cache clean -f
 npm install
 npm i got
 
-echo "[*] All dependencies have been installed, please run the command \"npm start\" to immediately start the script"
-echo "Updates : fix menu"
+echo "[*] Listo pana todo descargado, usa npm start o node index.js para iniciar"
