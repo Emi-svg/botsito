@@ -1,5 +1,5 @@
 {
-  "name": "pato-v4",
+  "name": "termux-whatsapp-bot",
   "version": "0.0.2",
   "description": "Only termux",
   "main": "index.js",
