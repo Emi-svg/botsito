@@ -1,13 +1,13 @@
 exports.noregis = () => {
-        return `*TODAVÍA NO ESTÁ REGISTRADO* \n\n *Cómo registrarse ${prefix} registrar Nombre|edad* \n *Ejemplo: ${prefix} registrar Pato|99*`
+        return `*TODAVÍA NO ESTÁ REGISTRADO* \n\n *Cómo registrarse ${prefix} registrar Nombre|edad* \n *Ejemplo: ${prefix} registrar botsito|99*`
 }
 
 exports.rediregis = () => {
-        return `*「 REGISTRADO 」*\n\n*Te has registrado en la base de datos de bot*`
+        return `*「 REGISTRADO 」*\n\n*Te has registrado en la base de datos de botsito*`
 }
 
 exports.wrongf = () => {
-        return`*Formato incorreto, ve el ejemplo y hazlo bien*`
+        return`*No entendí ciruja, escribí bien*`
 }
 
 exports.clears = () => {
@@ -15,7 +15,7 @@ exports.clears = () => {
 }
 
 exports.pc = () => {
-        return`*「 REGISTRO 」*\n\nTe has registrado en la base de datos de bot \n\nNOTE:\n*si no recibiste el mensaje. significa que no ha guardado su número de bot*`
+        return`*「 REGISTRO 」*\n\nTe has registrado en la base de datos de botsito \n\nNOTE:\n*si no recibiste el mensaje. significa que no ha guardado su número de botsito*`
 }
 
 exports.registered = (namaUser, umurUser, serialUser, time, sender) => {
@@ -27,7 +27,7 @@ exports.cmdnf = (prefix, command) => {
 }
 
 exports.owneresce = (pushname) => {
-        return`*Perdón, pero ${pushname} no es el dueño del bot*`
+        return`*Perdón, pero ${pushname} no es el dueño del botsito *`
 }
 
 exports.limitend = (pushname) => {
