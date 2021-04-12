@@ -28,7 +28,7 @@ const stickermaker = (prefix, botName, ownerName) => {
 ╿
 ┷┯ *〈 STICKER MAKER 〉*
    ╽
-   ┠≽ *${prefix}sticker*
+   ┠≽ *${prefix}S*
    ┃ *Desc* : Faça um Sticker com imagem
    ┠──────────────╼
    ┠≽ *${prefix}stickergif*
